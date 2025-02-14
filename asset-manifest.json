@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/paikdabang/static/css/main.61f2aa1b.css",
+    "main.js": "/paikdabang/static/js/main.09c842e5.js",
+    "static/media/img2.png": "/paikdabang/static/media/img2.524bb9e319903325bc82.png",
+    "static/media/img1.jpg": "/paikdabang/static/media/img1.94b63aee0915b62cd247.jpg",
+    "static/media/img3.jpg": "/paikdabang/static/media/img3.ebd3758803d290bc69d2.jpg",
+    "static/media/img4.jpg": "/paikdabang/static/media/img4.48871e150c9c3d9ff0b7.jpg",
+    "index.html": "/paikdabang/index.html",
+    "main.61f2aa1b.css.map": "/paikdabang/static/css/main.61f2aa1b.css.map",
+    "main.09c842e5.js.map": "/paikdabang/static/js/main.09c842e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f2aa1b.css",
+    "static/js/main.09c842e5.js"
+  ]
+}
